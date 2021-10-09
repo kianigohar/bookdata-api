@@ -1,0 +1,10 @@
+
+http://localhost:8080/api/v1/books/authors/rowling
+
+http://localhost:8080/api/v1/books/authors/Edward%20P
+
+go run .
+
+https://dev.to/moficodes/build-your-first-rest-api-with-go-2gcj
+
+https://github.com/moficodes/bookdata-api.git
